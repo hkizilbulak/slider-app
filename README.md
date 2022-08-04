@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live Project Demo : https://lucent-zuccutto-61e451.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
